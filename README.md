@@ -14,4 +14,15 @@ Users should be able to categorize websites into different groups, such as distr
 
 ## features
 
-![image](https://github.com/rishi899/activity-tracker/assets/119059306/ad3e8f2a-8b88-4d10-aa38-582c95e658b0)
+ Extension logo showing time 
+ ![image](https://github.com/rishi899/activity-tracker/assets/119059306/ad3e8f2a-8b88-4d10-aa38-582c95e658b0)
+
+Dashboard
+![image](https://github.com/rishi899/activity-tracker/assets/119059306/30db104b-d897-4945-a880-af8633dbafba)
+
+
+![image](https://github.com/rishi899/activity-tracker/assets/119059306/1f60d9f3-1e92-4f3c-9882-dad29987b500)
+
+![image](https://github.com/rishi899/activity-tracker/assets/119059306/95f1141e-126f-475b-9f0f-e92b7a361f43)
+
+
